@@ -22,7 +22,7 @@ Given('I am on {string} page', function (string) {
     if (string === "English"){
         vne.englishBtn.click();
         browser.sleep(5000);
-        console.log("click on English button");
+        console.log("click on Video Button");
         
     }
        
